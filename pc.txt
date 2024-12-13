@@ -1,0 +1,5 @@
+streamlit==1.14.0
+pandas==2.2.3
+numpy==2.2.0
+matplotlib.pyplot==3.9.3
+scipy.stats==1.14.1
